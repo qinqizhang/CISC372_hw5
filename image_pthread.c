@@ -3,7 +3,7 @@
 #include <time.h>
 #include <string.h>
 #include <pthread.h>
-#include "image.h"
+#include "image_pthread.h"
 #define N 10
 
 #define STB_IMAGE_IMPLEMENTATION
