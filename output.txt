@@ -1,0 +1,9 @@
+Script started on 2021-05-06 21:39:50-04:00
+]0;qzhanga@br012:~/CISC372_hw5[qzhanga@r004 CISC372_hw5]$ ./image pic1.jpg edge[C[1@_[1@p[1@t[1@h[1@r[1@e[1@a[1@d
+Took 4 seconds
+]0;qzhanga@br012:~/CISC372_hw5[qzhanga@r004 CISC372_hw5]$ ./image_pthread pic1.jpg edge[C[1P[1P[1P[1P[1P[1P[1P[1@o[1@m[1@p
+Took 7 seconds
+]0;qzhanga@br012:~/CISC372_hw5[qzhanga@r004 CISC372_hw5]$ exit
+exit
+
+Script done on 2021-05-06 21:40:33-04:00
